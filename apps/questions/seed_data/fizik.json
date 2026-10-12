@@ -1,0 +1,362 @@
+[
+ {
+  "q": "Işığın boşluktaki hızı yaklaşık kaç km/s'dir?",
+  "a": "300.000",
+  "w": [
+   "3.000",
+   "30.000",
+   "3.000.000"
+  ]
+ },
+ {
+  "q": "Su deniz seviyesinde kaç °C'de kaynar?",
+  "a": "100 °C",
+  "w": [
+   "90 °C",
+   "0 °C",
+   "50 °C"
+  ]
+ },
+ {
+  "q": "Newton'un birinci hareket yasası hangisidir?",
+  "a": "Eylemsizlik yasası",
+  "w": [
+   "Etki-tepki yasası",
+   "F = m·a",
+   "Kütle çekim yasası"
+  ]
+ },
+ {
+  "q": "F = m·a formülü hangi yasayı ifade eder?",
+  "a": "Newton'un ikinci hareket yasası",
+  "w": [
+   "Newton'un birinci hareket yasası",
+   "Newton'un üçüncü hareket yasası",
+   "Ohm yasası"
+  ]
+ },
+ {
+  "q": "SI sisteminde kuvvetin birimi nedir?",
+  "a": "Newton",
+  "w": [
+   "Joule",
+   "Watt",
+   "Pascal"
+  ]
+ },
+ {
+  "q": "SI sisteminde enerjinin birimi nedir?",
+  "a": "Joule",
+  "w": [
+   "Newton",
+   "Watt",
+   "Volt"
+  ]
+ },
+ {
+  "q": "SI sisteminde gücün birimi nedir?",
+  "a": "Watt",
+  "w": [
+   "Joule",
+   "Volt",
+   "Amper"
+  ]
+ },
+ {
+  "q": "Elektrik akımının birimi nedir?",
+  "a": "Amper",
+  "w": [
+   "Volt",
+   "Ohm",
+   "Watt"
+  ]
+ },
+ {
+  "q": "Elektriksel direncin birimi nedir?",
+  "a": "Ohm",
+  "w": [
+   "Volt",
+   "Amper",
+   "Henry"
+  ]
+ },
+ {
+  "q": "Ohm yasası hangi formülle ifade edilir?",
+  "a": "V = I·R",
+  "w": [
+   "F = m·a",
+   "E = m·c²",
+   "P = m·v"
+  ]
+ },
+ {
+  "q": "E = mc² denklemini ortaya koyan bilim insanı kimdir?",
+  "a": "Albert Einstein",
+  "w": [
+   "Isaac Newton",
+   "Galileo Galilei",
+   "Niels Bohr"
+  ]
+ },
+ {
+  "q": "Evrensel kütle çekim yasasını formüle eden bilim insanı kimdir?",
+  "a": "Isaac Newton",
+  "w": [
+   "Albert Einstein",
+   "Johannes Kepler",
+   "Nikola Tesla"
+  ]
+ },
+ {
+  "q": "Dünya yüzeyinde yerçekimi ivmesi yaklaşık kaç m/s²'dir?",
+  "a": "9,8",
+  "w": [
+   "1,6",
+   "3,7",
+   "24,8"
+  ]
+ },
+ {
+  "q": "Aşağıdakilerden hangisinde ses en hızlı yayılır?",
+  "a": "Çelik",
+  "w": [
+   "Hava",
+   "Su",
+   "Boşluk"
+  ]
+ },
+ {
+  "q": "Sesin yayılabilmesi için neye ihtiyaç vardır?",
+  "a": "Maddesel bir ortama",
+  "w": [
+   "Işığa",
+   "Boşluğa",
+   "Mıknatısa"
+  ]
+ },
+ {
+  "q": "Mıknatısların zıt kutupları birbirini nasıl etkiler?",
+  "a": "Çeker",
+  "w": [
+   "İter",
+   "Etkilemez",
+   "Yok eder"
+  ]
+ },
+ {
+  "q": "Atom çekirdeğinde hangi parçacıklar bulunur?",
+  "a": "Proton ve nötron",
+  "w": [
+   "Proton ve elektron",
+   "Elektron ve nötron",
+   "Yalnızca elektron"
+  ]
+ },
+ {
+  "q": "Elektronun elektrik yükü nasıldır?",
+  "a": "Negatiftir",
+  "w": [
+   "Pozitiftir",
+   "Nötrdür",
+   "Sürekli değişir"
+  ]
+ },
+ {
+  "q": "Aşağıdaki parçacıklardan hangisi yüksüzdür?",
+  "a": "Nötron",
+  "w": [
+   "Proton",
+   "Elektron",
+   "Pozitron"
+  ]
+ },
+ {
+  "q": "Mutlak sıfır noktası yaklaşık kaç °C'dir?",
+  "a": "−273 °C",
+  "w": [
+   "0 °C",
+   "−100 °C",
+   "−460 °C"
+  ]
+ },
+ {
+  "q": "Frekansın birimi nedir?",
+  "a": "Hertz",
+  "w": [
+   "Newton",
+   "Joule",
+   "Pascal"
+  ]
+ },
+ {
+  "q": "Basıncın SI birimi nedir?",
+  "a": "Pascal",
+  "w": [
+   "Watt",
+   "Tesla",
+   "Coulomb"
+  ]
+ },
+ {
+  "q": "Işığın bir ortamdan başka bir ortama geçerken yön değiştirmesine ne denir?",
+  "a": "Kırılma",
+  "w": [
+   "Yansıma",
+   "Soğurma",
+   "Kutuplanma"
+  ]
+ },
+ {
+  "q": "Beyaz ışığın renklerine ayrılmasına ne denir?",
+  "a": "Dağılım (dispersiyon)",
+  "w": [
+   "Yansıma",
+   "Girişim",
+   "Soğurma"
+  ]
+ },
+ {
+  "q": "Ay'daki yerçekimi ivmesi Dünya'dakine göre yaklaşık kaçtır?",
+  "a": "Altıda biri",
+  "w": [
+   "İki katı",
+   "Aynısı",
+   "Yarısı"
+  ]
+ },
+ {
+  "q": "Hızın SI birimi nedir?",
+  "a": "m/s",
+  "w": [
+   "m/s²",
+   "kg·m",
+   "N/m"
+  ]
+ },
+ {
+  "q": "Ortalama hız nasıl hesaplanır?",
+  "a": "Yol / Zaman",
+  "w": [
+   "Yol × Zaman",
+   "Zaman / Yol",
+   "Kütle × Hız"
+  ]
+ },
+ {
+  "q": "Kinetik enerji hangi formülle hesaplanır?",
+  "a": "½·m·v²",
+  "w": [
+   "m·g·h",
+   "m·a",
+   "F·d"
+  ]
+ },
+ {
+  "q": "Yerçekimi potansiyel enerjisi hangi formülle hesaplanır?",
+  "a": "m·g·h",
+  "w": [
+   "½·m·v²",
+   "F / A",
+   "V·I"
+  ]
+ },
+ {
+  "q": "Güneş'ten Dünya'ya ısı hangi yolla ulaşır?",
+  "a": "Işıma",
+  "w": [
+   "İletim",
+   "Konveksiyon",
+   "Buharlaşma"
+  ]
+ },
+ {
+  "q": "Elektrik devresinde akım şiddetini ölçen alet hangisidir?",
+  "a": "Ampermetre",
+  "w": [
+   "Voltmetre",
+   "Barometre",
+   "Termometre"
+  ]
+ },
+ {
+  "q": "Barometre neyi ölçer?",
+  "a": "Atmosfer basıncını",
+  "w": [
+   "Sıcaklığı",
+   "Nemi",
+   "Rüzgâr hızını"
+  ]
+ },
+ {
+  "q": "Doppler etkisi nedir?",
+  "a": "Kaynak ve gözlemci arasındaki harekete bağlı olarak frekansın değişmesi",
+  "w": [
+   "Işığın kırılması",
+   "Mıknatısın kutuplanması",
+   "Atomun bölünmesi"
+  ]
+ },
+ {
+  "q": "Güneş enerjisini hangi nükleer tepkimeyle üretir?",
+  "a": "Füzyon",
+  "w": [
+   "Fisyon",
+   "Yanma",
+   "Sürtünme"
+  ]
+ },
+ {
+  "q": "Günümüz nükleer santralleri enerjiyi hangi tepkimeyle üretir?",
+  "a": "Fisyon",
+  "w": [
+   "Füzyon",
+   "Yanma",
+   "Sürtünme"
+  ]
+ },
+ {
+  "q": "Kara delik nedir?",
+  "a": "Çekiminden ışığın bile kaçamadığı uzay bölgesi",
+  "w": [
+   "Çok parlak bir yıldız",
+   "Bir gezegenin uydusu",
+   "Bir tür kuyruklu yıldız"
+  ]
+ },
+ {
+  "q": "Işık yılı neyin birimidir?",
+  "a": "Mesafenin",
+  "w": [
+   "Zamanın",
+   "Hızın",
+   "Kütlenin"
+  ]
+ },
+ {
+  "q": "Dünya, Güneş çevresindeki bir tam turunu yaklaşık ne kadar sürede tamamlar?",
+  "a": "1 yıl",
+  "w": [
+   "1 ay",
+   "1 hafta",
+   "1 gün"
+  ]
+ },
+ {
+  "q": "Aşağıdakilerden hangisi bir elektromanyetik dalgadır?",
+  "a": "Radyo dalgası",
+  "w": [
+   "Ses dalgası",
+   "Deprem dalgası",
+   "Su dalgası"
+  ]
+ },
+ {
+  "q": "Mach 1 neyi ifade eder?",
+  "a": "Ses hızını",
+  "w": [
+   "Işık hızını",
+   "Kaçış hızını",
+   "Ses şiddetini"
+  ]
+ }
+]

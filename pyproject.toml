@@ -1,0 +1,19 @@
+[tool.pytest.ini_options]
+DJANGO_SETTINGS_MODULE = "config.settings_test"
+python_files = ["test_*.py"]
+testpaths = ["tests"]
+filterwarnings = ["ignore:No directory at:UserWarning"]
+
+[tool.ruff]
+line-length = 100
+target-version = "py312"
+extend-exclude = ["migrations"]
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "B", "DJ"]
+ignore = ["B904"]
+
+[tool.black]
+line-length = 100
+target-version = ["py312"]
+extend-exclude = "migrations"

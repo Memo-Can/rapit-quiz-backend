@@ -1,0 +1,362 @@
+[
+ {
+  "q": "Fransa'nın başkenti neresidir?",
+  "a": "Paris",
+  "w": [
+   "Lyon",
+   "Marsilya",
+   "Nice"
+  ]
+ },
+ {
+  "q": "Japonya'nın başkenti neresidir?",
+  "a": "Tokyo",
+  "w": [
+   "Osaka",
+   "Kyoto",
+   "Seul"
+  ]
+ },
+ {
+  "q": "Avustralya'nın başkenti neresidir?",
+  "a": "Canberra",
+  "w": [
+   "Sidney",
+   "Melbourne",
+   "Perth"
+  ]
+ },
+ {
+  "q": "Kanada'nın başkenti neresidir?",
+  "a": "Ottawa",
+  "w": [
+   "Toronto",
+   "Vancouver",
+   "Montreal"
+  ]
+ },
+ {
+  "q": "Brezilya'nın başkenti neresidir?",
+  "a": "Brasília",
+  "w": [
+   "Rio de Janeiro",
+   "São Paulo",
+   "Buenos Aires"
+  ]
+ },
+ {
+  "q": "Türkiye'nin en kalabalık şehri hangisidir?",
+  "a": "İstanbul",
+  "w": [
+   "Ankara",
+   "İzmir",
+   "Bursa"
+  ]
+ },
+ {
+  "q": "Mısır'ın başkenti neresidir?",
+  "a": "Kahire",
+  "w": [
+   "İskenderiye",
+   "Tunus",
+   "Kartum"
+  ]
+ },
+ {
+  "q": "Yüzölçümü bakımından dünyanın en büyük ülkesi hangisidir?",
+  "a": "Rusya",
+  "w": [
+   "Kanada",
+   "Çin",
+   "ABD"
+  ]
+ },
+ {
+  "q": "Yüzölçümü bakımından dünyanın en küçük ülkesi hangisidir?",
+  "a": "Vatikan",
+  "w": [
+   "Monako",
+   "San Marino",
+   "Lihtenştayn"
+  ]
+ },
+ {
+  "q": "Büyük Set Resifi hangi ülkenin kıyısındadır?",
+  "a": "Avustralya",
+  "w": [
+   "Endonezya",
+   "Filipinler",
+   "Yeni Zelanda"
+  ]
+ },
+ {
+  "q": "İtalya'nın başkenti neresidir?",
+  "a": "Roma",
+  "w": [
+   "Milano",
+   "Napoli",
+   "Venedik"
+  ]
+ },
+ {
+  "q": "İspanya'nın başkenti neresidir?",
+  "a": "Madrid",
+  "w": [
+   "Barselona",
+   "Sevilla",
+   "Valensiya"
+  ]
+ },
+ {
+  "q": "Almanya'nın başkenti neresidir?",
+  "a": "Berlin",
+  "w": [
+   "Münih",
+   "Frankfurt",
+   "Hamburg"
+  ]
+ },
+ {
+  "q": "Güney Kore'nin başkenti neresidir?",
+  "a": "Seul",
+  "w": [
+   "Busan",
+   "Pekin",
+   "Tokyo"
+  ]
+ },
+ {
+  "q": "Arjantin'in başkenti neresidir?",
+  "a": "Buenos Aires",
+  "w": [
+   "Santiago",
+   "Montevideo",
+   "Lima"
+  ]
+ },
+ {
+  "q": "Yunanistan'ın başkenti neresidir?",
+  "a": "Atina",
+  "w": [
+   "Selanik",
+   "Sparta",
+   "Patras"
+  ]
+ },
+ {
+  "q": "Norveç'in başkenti neresidir?",
+  "a": "Oslo",
+  "w": [
+   "Stokholm",
+   "Bergen",
+   "Kopenhag"
+  ]
+ },
+ {
+  "q": "Hindistan'ın başkenti neresidir?",
+  "a": "Yeni Delhi",
+  "w": [
+   "Mumbai",
+   "Kalküta",
+   "Bangalore"
+  ]
+ },
+ {
+  "q": "Çin'in başkenti neresidir?",
+  "a": "Pekin",
+  "w": [
+   "Şanghay",
+   "Hong Kong",
+   "Guangzhou"
+  ]
+ },
+ {
+  "q": "Meksika'nın başkenti neresidir?",
+  "a": "Mexico City",
+  "w": [
+   "Cancún",
+   "Guadalajara",
+   "Havana"
+  ]
+ },
+ {
+  "q": "Nijerya'nın başkenti neresidir?",
+  "a": "Abuja",
+  "w": [
+   "Lagos",
+   "Nairobi",
+   "Akra"
+  ]
+ },
+ {
+  "q": "Kenya'nın başkenti neresidir?",
+  "a": "Nairobi",
+  "w": [
+   "Mombasa",
+   "Addis Ababa",
+   "Kampala"
+  ]
+ },
+ {
+  "q": "Portekiz'in başkenti neresidir?",
+  "a": "Lizbon",
+  "w": [
+   "Porto",
+   "Madrid",
+   "Faro"
+  ]
+ },
+ {
+  "q": "Hollanda'nın başkenti neresidir?",
+  "a": "Amsterdam",
+  "w": [
+   "Rotterdam",
+   "Brüksel",
+   "Utrecht"
+  ]
+ },
+ {
+  "q": "İsviçre'nin başkenti neresidir?",
+  "a": "Bern",
+  "w": [
+   "Zürih",
+   "Cenevre",
+   "Viyana"
+  ]
+ },
+ {
+  "q": "İsveç'in başkenti neresidir?",
+  "a": "Stokholm",
+  "w": [
+   "Göteborg",
+   "Oslo",
+   "Helsinki"
+  ]
+ },
+ {
+  "q": "Polonya'nın başkenti neresidir?",
+  "a": "Varşova",
+  "w": [
+   "Krakow",
+   "Prag",
+   "Gdansk"
+  ]
+ },
+ {
+  "q": "Peru'nun başkenti neresidir?",
+  "a": "Lima",
+  "w": [
+   "Cusco",
+   "Bogota",
+   "Quito"
+  ]
+ },
+ {
+  "q": "Tayland'ın başkenti neresidir?",
+  "a": "Bangkok",
+  "w": [
+   "Phuket",
+   "Hanoi",
+   "Jakarta"
+  ]
+ },
+ {
+  "q": "Vietnam'ın başkenti neresidir?",
+  "a": "Hanoi",
+  "w": [
+   "Ho Chi Minh Kenti",
+   "Bangkok",
+   "Manila"
+  ]
+ },
+ {
+  "q": "Rusya'nın başkenti neresidir?",
+  "a": "Moskova",
+  "w": [
+   "St. Petersburg",
+   "Kiev",
+   "Minsk"
+  ]
+ },
+ {
+  "q": "Yeni Zelanda'nın başkenti neresidir?",
+  "a": "Wellington",
+  "w": [
+   "Auckland",
+   "Christchurch",
+   "Sidney"
+  ]
+ },
+ {
+  "q": "Fas'ın başkenti neresidir?",
+  "a": "Rabat",
+  "w": [
+   "Kazablanka",
+   "Marakeş",
+   "Tunus"
+  ]
+ },
+ {
+  "q": "Aşağıdakilerden hangisi bir ada ülkesidir?",
+  "a": "Japonya",
+  "w": [
+   "Almanya",
+   "Macaristan",
+   "Avusturya"
+  ]
+ },
+ {
+  "q": "Aşağıdaki ülkelerden hangisinin denize kıyısı yoktur?",
+  "a": "Avusturya",
+  "w": [
+   "İspanya",
+   "Portekiz",
+   "Yunanistan"
+  ]
+ },
+ {
+  "q": "Amazon yağmur ormanlarının büyük bölümü hangi ülkededir?",
+  "a": "Brezilya",
+  "w": [
+   "Kolombiya",
+   "Arjantin",
+   "Şili"
+  ]
+ },
+ {
+  "q": "Eyfel Kulesi hangi ülkededir?",
+  "a": "Fransa",
+  "w": [
+   "İtalya",
+   "İngiltere",
+   "Belçika"
+  ]
+ },
+ {
+  "q": "Kolezyum hangi ülkededir?",
+  "a": "İtalya",
+  "w": [
+   "Yunanistan",
+   "Mısır",
+   "İspanya"
+  ]
+ },
+ {
+  "q": "Taj Mahal hangi ülkededir?",
+  "a": "Hindistan",
+  "w": [
+   "Pakistan",
+   "Nepal",
+   "İran"
+  ]
+ },
+ {
+  "q": "Machu Picchu antik kenti hangi ülkededir?",
+  "a": "Peru",
+  "w": [
+   "Meksika",
+   "Şili",
+   "Bolivya"
+  ]
+ }
+]

@@ -1,0 +1,362 @@
+[
+ {
+  "q": "HTML'in açılımı nedir?",
+  "a": "HyperText Markup Language",
+  "w": [
+   "High Tech Modern Language",
+   "HyperText Machine Language",
+   "Home Tool Markup Language"
+  ]
+ },
+ {
+  "q": "CSS ne için kullanılır?",
+  "a": "Web sayfalarını biçimlendirmek için",
+  "w": [
+   "Veritabanı sorgulamak için",
+   "Sunucu yapılandırmak için",
+   "Ağ trafiğini şifrelemek için"
+  ]
+ },
+ {
+  "q": "Git'te yeni bir dal oluşturup o dala geçmek için hangi komut kullanılır?",
+  "a": "git checkout -b",
+  "w": [
+   "git branch -d",
+   "git merge --new",
+   "git clone -b"
+  ]
+ },
+ {
+  "q": "Python'da liste hangi parantezlerle tanımlanır?",
+  "a": "Köşeli parantez []",
+  "w": [
+   "Süslü parantez {}",
+   "Normal parantez ()",
+   "Küçüktür-büyüktür <>"
+  ]
+ },
+ {
+  "q": "JavaScript'te === operatörü ne yapar?",
+  "a": "Hem değeri hem türü karşılaştırır",
+  "w": [
+   "Sadece değer atar",
+   "Sadece türü karşılaştırır",
+   "Her zaman true döner"
+  ]
+ },
+ {
+  "q": "'Sayfa bulunamadı' anlamına gelen HTTP durum kodu hangisidir?",
+  "a": "404",
+  "w": [
+   "200",
+   "500",
+   "301"
+  ]
+ },
+ {
+  "q": "SQL'de tablodan veri okumak için hangi komut kullanılır?",
+  "a": "SELECT",
+  "w": [
+   "INSERT",
+   "UPDATE",
+   "DROP"
+  ]
+ },
+ {
+  "q": "Android'de Google'ın resmi olarak önerdiği modern programlama dili hangisidir?",
+  "a": "Kotlin",
+  "w": [
+   "Swift",
+   "Ruby",
+   "Perl"
+  ]
+ },
+ {
+  "q": "Swift programlama dilini hangi şirket geliştirdi?",
+  "a": "Apple",
+  "w": [
+   "Google",
+   "Microsoft",
+   "Oracle"
+  ]
+ },
+ {
+  "q": "Yazılımdaki 'bug' ne anlama gelir?",
+  "a": "Yazılımdaki hata",
+  "w": [
+   "Yeni bir özellik",
+   "Kullanıcı arayüzü",
+   "Yedekleme işlemi"
+  ]
+ },
+ {
+  "q": "Aşağıdakilerden hangisi bir sürüm kontrol sistemidir?",
+  "a": "Git",
+  "w": [
+   "Docker",
+   "Nginx",
+   "Redis"
+  ]
+ },
+ {
+  "q": "REST API'de bir kaydı silmek için genellikle hangi HTTP metodu kullanılır?",
+  "a": "DELETE",
+  "w": [
+   "GET",
+   "POST",
+   "HEAD"
+  ]
+ },
+ {
+  "q": "JSON'ın açılımı nedir?",
+  "a": "JavaScript Object Notation",
+  "w": [
+   "Java Standard Object Network",
+   "JavaScript Online Node",
+   "Joint Syntax Object Name"
+  ]
+ },
+ {
+  "q": "Web tarayıcılarının doğal olarak çalıştırdığı betik dili hangisidir?",
+  "a": "JavaScript",
+  "w": [
+   "Kotlin",
+   "Ruby",
+   "PHP"
+  ]
+ },
+ {
+  "q": "Docker nedir?",
+  "a": "Uygulamaları konteynerlerde çalıştırma platformu",
+  "w": [
+   "Bir programlama dili",
+   "Bir ilişkisel veritabanı",
+   "Bir metin editörü"
+  ]
+ },
+ {
+  "q": "Python'da fonksiyon hangi anahtar kelimeyle tanımlanır?",
+  "a": "def",
+  "w": [
+   "func",
+   "function",
+   "define"
+  ]
+ },
+ {
+  "q": "Aşağıdakilerden hangisi nesne yönelimli programlamanın temel ilkelerinden biridir?",
+  "a": "Kalıtım",
+  "w": [
+   "Önbellekleme",
+   "Sıkıştırma",
+   "Yedekleme"
+  ]
+ },
+ {
+  "q": "Uzak depodaki değişiklikleri alıp yerel depoyla birleştirmek için hangi Git komutu kullanılır?",
+  "a": "git pull",
+  "w": [
+   "git push",
+   "git init",
+   "git stash"
+  ]
+ },
+ {
+  "q": "Semantik sürümlemede 2.4.1 numarasındaki ilk sayı neyi gösterir?",
+  "a": "Ana (major) sürümü",
+  "w": [
+   "Küçük (minor) sürümü",
+   "Yama (patch) sürümü",
+   "Yayın tarihini"
+  ]
+ },
+ {
+  "q": "Aşağıdaki programlama dillerinden hangisi Google tarafından geliştirilmiştir?",
+  "a": "Go",
+  "w": [
+   "Swift",
+   "C#",
+   "Ruby"
+  ]
+ },
+ {
+  "q": "npm ne için kullanılır?",
+  "a": "Node.js paketlerini yönetmek için",
+  "w": [
+   "Veritabanı yedeği almak için",
+   "Görsel düzenlemek için",
+   "Ağ trafiğini izlemek için"
+  ]
+ },
+ {
+  "q": "CSS'te yazı rengini değiştiren özellik hangisidir?",
+  "a": "color",
+  "w": [
+   "font-weight",
+   "text-align",
+   "margin"
+  ]
+ },
+ {
+  "q": "HTML'de bağlantı (link) oluşturmak için hangi etiket kullanılır?",
+  "a": "<a>",
+  "w": [
+   "<p>",
+   "<img>",
+   "<div>"
+  ]
+ },
+ {
+  "q": "Algoritmaların verimliliğini ifade etmek için kullanılan gösterim hangisidir?",
+  "a": "Big-O notasyonu",
+  "w": [
+   "Hex notasyonu",
+   "ASCII tablosu",
+   "Bit hızı"
+  ]
+ },
+ {
+  "q": "TypeScript hangi dilin üst kümesidir?",
+  "a": "JavaScript",
+  "w": [
+   "Java",
+   "Python",
+   "C#"
+  ]
+ },
+ {
+  "q": "SQL'de iki tabloyu ilişkilendirerek birleştirmek için hangi ifade kullanılır?",
+  "a": "JOIN",
+  "w": [
+   "LIMIT",
+   "DISTINCT",
+   "TRUNCATE"
+  ]
+ },
+ {
+  "q": "Aşağıdakilerden hangisi bir JavaScript çatısıdır (framework)?",
+  "a": "Vue.js",
+  "w": [
+   "Django",
+   "Laravel",
+   "Flask"
+  ]
+ },
+ {
+  "q": "Aşağıdakilerden hangisi bir Python web çatısıdır?",
+  "a": "Django",
+  "w": [
+   "Laravel",
+   "Express",
+   "Rails"
+  ]
+ },
+ {
+  "q": "'Açık kaynak' (open source) yazılım ne demektir?",
+  "a": "Kaynak kodu herkese açık yazılım",
+  "w": [
+   "Ücretsiz mobil oyun",
+   "Şifrelenmiş yazılım",
+   "İnternetsiz çalışan yazılım"
+  ]
+ },
+ {
+  "q": "Git'te 'commit' ne anlama gelir?",
+  "a": "Değişikliklerin geçmişe kaydedilmesi",
+  "w": [
+   "Bir dalın silinmesi",
+   "Uzak depoyu kopyalama",
+   "Dosyayı gizleme"
+  ]
+ },
+ {
+  "q": "Linux çekirdeğini başlatan kişi kimdir?",
+  "a": "Linus Torvalds",
+  "w": [
+   "Bill Gates",
+   "Steve Jobs",
+   "Dennis Ritchie"
+  ]
+ },
+ {
+  "q": "Python'da tek satırlık yorum hangi işaretle başlar?",
+  "a": "#",
+  "w": [
+   "//",
+   "/*",
+   "--"
+  ]
+ },
+ {
+  "q": "API'nin açılımı nedir?",
+  "a": "Application Programming Interface",
+  "w": [
+   "Applied Program Integration",
+   "Automated Process Input",
+   "Advanced Page Indexing"
+  ]
+ },
+ {
+  "q": "Yazılımda 'debug' etmek ne demektir?",
+  "a": "Hataları bulup gidermek",
+  "w": [
+   "Kodu yayınlamak",
+   "Yeni dil öğrenmek",
+   "Sunucuyu yeniden başlatmak"
+  ]
+ },
+ {
+  "q": "Birim testi (unit test) ne için yazılır?",
+  "a": "Kodun küçük parçalarının doğru çalıştığını doğrulamak için",
+  "w": [
+   "Arayüzü renklendirmek için",
+   "Sunucu maliyetini düşürmek için",
+   "Veritabanını silmek için"
+  ]
+ },
+ {
+  "q": "Python paketlerini kurmak için hangi komut kullanılır?",
+  "a": "pip install",
+  "w": [
+   "git install",
+   "python --get",
+   "npm pip"
+  ]
+ },
+ {
+  "q": "Ruby on Rails hangi programlama dilini kullanır?",
+  "a": "Ruby",
+  "w": [
+   "Python",
+   "PHP",
+   "Perl"
+  ]
+ },
+ {
+  "q": "Java'nın bilinen sloganı hangisidir?",
+  "a": "Write once, run anywhere",
+  "w": [
+   "Think different",
+   "Just do it",
+   "Move fast and break things"
+  ]
+ },
+ {
+  "q": "Aşağıdakilerden hangisi bir NoSQL veritabanıdır?",
+  "a": "MongoDB",
+  "w": [
+   "PostgreSQL",
+   "MySQL",
+   "SQLite"
+  ]
+ },
+ {
+  "q": "Kod incelemesi (code review) ne için yapılır?",
+  "a": "Kod kalitesini artırmak ve hataları erken yakalamak için",
+  "w": [
+   "Kodu otomatik silmek için",
+   "Sunucuyu hızlandırmak için",
+   "Lisans satın almak için"
+  ]
+ }
+]

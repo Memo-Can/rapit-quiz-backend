@@ -1,0 +1,21 @@
+services:
+  db:
+    image: postgres:16
+    environment:
+      POSTGRES_DB: rapitquiz
+      POSTGRES_USER: rapitquiz
+      POSTGRES_PASSWORD: rapitquiz
+    volumes: [pgdata:/var/lib/postgresql/data]
+    ports: ["5432:5432"]
+  web:
+    build: .
+    entrypoint: ["./entrypoint.sh"]
+    command: python manage.py runserver 0.0.0.0:8000
+    env_file: .env
+    environment:
+      DATABASE_URL: postgres://rapitquiz:rapitquiz@db:5432/rapitquiz
+    volumes: [".:/app"]
+    ports: ["8000:8000"]
+    depends_on: [db]
+volumes:
+  pgdata:

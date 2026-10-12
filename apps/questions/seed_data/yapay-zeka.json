@@ -1,0 +1,362 @@
+[
+ {
+  "q": "'Yapay zeka' terimini ortaya atan bilim insanı kimdir?",
+  "a": "John McCarthy",
+  "w": [
+   "Alan Turing",
+   "Elon Musk",
+   "Geoffrey Hinton"
+  ]
+ },
+ {
+  "q": "Turing Testi neyi ölçmeyi amaçlar?",
+  "a": "Bir makinenin insan gibi konuşup konuşamadığını",
+  "w": [
+   "İşlemci hızını",
+   "Bellek miktarını",
+   "Ağ gecikmesini"
+  ]
+ },
+ {
+  "q": "Makine öğrenmesinde 'eğitim verisi' nedir?",
+  "a": "Modelin örneklerden öğrenmesi için kullanılan veri",
+  "w": [
+   "Modelin yazıldığı programlama dili",
+   "Kullanıcıların şifreleri",
+   "Sunucu log kayıtları"
+  ]
+ },
+ {
+  "q": "ChatGPT'yi hangi şirket geliştirmiştir?",
+  "a": "OpenAI",
+  "w": [
+   "Google",
+   "Meta",
+   "Apple"
+  ]
+ },
+ {
+  "q": "Claude yapay zeka modellerini hangi şirket geliştirmektedir?",
+  "a": "Anthropic",
+  "w": [
+   "OpenAI",
+   "NVIDIA",
+   "Samsung"
+  ]
+ },
+ {
+  "q": "Yapay sinir ağlarındaki 'nöron' neye benzetilmiştir?",
+  "a": "Beyindeki sinir hücrelerine",
+  "w": [
+   "Bilgisayar fanlarına",
+   "Elektrik kablolarına",
+   "Sabit disk sektörlerine"
+  ]
+ },
+ {
+  "q": "Derin öğrenme (deep learning) neyi ifade eder?",
+  "a": "Çok katmanlı yapay sinir ağlarıyla öğrenmeyi",
+  "w": [
+   "Derin deniz araştırmalarını",
+   "Çok büyük bir veritabanını",
+   "Kodu derinlemesine okumayı"
+  ]
+ },
+ {
+  "q": "Makine öğrenmesinde 'overfitting' ne demektir?",
+  "a": "Modelin eğitim verisini ezberleyip yeni verilerde başarısız olması",
+  "w": [
+   "Modelin çok hızlı çalışması",
+   "Modelin çok az bellek kullanması",
+   "Modelin hiç eğitilmemesi"
+  ]
+ },
+ {
+  "q": "Denetimli öğrenmede (supervised learning) eğitim verileri nasıldır?",
+  "a": "Etiketlidir",
+  "w": [
+   "Etiketsizdir",
+   "Şifrelidir",
+   "Rastgele sayılardan oluşur"
+  ]
+ },
+ {
+  "q": "Görüntü tanımada en yaygın kullanılan sinir ağı türü hangisidir?",
+  "a": "Evrişimli sinir ağı (CNN)",
+  "w": [
+   "Karar tablosu",
+   "Hash tablosu",
+   "Bağlı liste"
+  ]
+ },
+ {
+  "q": "GPT kısaltmasındaki 'T' harfi neyi temsil eder?",
+  "a": "Transformer",
+  "w": [
+   "Tensor",
+   "Token",
+   "Turing"
+  ]
+ },
+ {
+  "q": "Transformer mimarisini tanıtan ünlü makalenin adı nedir?",
+  "a": "Attention Is All You Need",
+  "w": [
+   "Deep Blue Rising",
+   "Learning to Think",
+   "Neural Dreams"
+  ]
+ },
+ {
+  "q": "1997'de dünya satranç şampiyonu Kasparov'u yenen bilgisayar hangisidir?",
+  "a": "Deep Blue",
+  "w": [
+   "AlphaGo",
+   "Watson",
+   "Siri"
+  ]
+ },
+ {
+  "q": "Go oyununda dünya şampiyonu Lee Sedol'u yenen yapay zeka sistemi hangisidir?",
+  "a": "AlphaGo",
+  "w": [
+   "Deep Blue",
+   "Watson",
+   "Alexa"
+  ]
+ },
+ {
+  "q": "AlphaGo'yu hangi şirket geliştirmiştir?",
+  "a": "DeepMind",
+  "w": [
+   "IBM",
+   "Tesla",
+   "Amazon"
+  ]
+ },
+ {
+  "q": "Bilgisayarlı görü (computer vision) ne yapar?",
+  "a": "Görüntüleri analiz edip anlamlandırır",
+  "w": [
+   "Ses kaydı yapar",
+   "Ağ güvenliğini sağlar",
+   "Metin yazım hatalarını düzeltir"
+  ]
+ },
+ {
+  "q": "Doğal dil işleme (NLP) alanı neyle ilgilenir?",
+  "a": "İnsan dilinin bilgisayarlar tarafından anlaşılması ve üretilmesiyle",
+  "w": [
+   "Ağ trafiği yönetimiyle",
+   "Donanım tasarımıyla",
+   "Grafik oyunlarıyla"
+  ]
+ },
+ {
+  "q": "Aşağıdakilerden hangisi bir makine öğrenmesi kütüphanesidir?",
+  "a": "scikit-learn",
+  "w": [
+   "React",
+   "Bootstrap",
+   "Express"
+  ]
+ },
+ {
+  "q": "PyTorch kütüphanesini başlatan şirket hangisidir?",
+  "a": "Meta (Facebook)",
+  "w": [
+   "Google",
+   "Microsoft",
+   "Amazon"
+  ]
+ },
+ {
+  "q": "TensorFlow kütüphanesini hangi şirket geliştirmiştir?",
+  "a": "Google",
+  "w": [
+   "Meta",
+   "Apple",
+   "Intel"
+  ]
+ },
+ {
+  "q": "Yapay zeka modellerinde 'prompt' nedir?",
+  "a": "Modele verilen girdi veya talimat",
+  "w": [
+   "Modelin çıktısındaki hata",
+   "Eğitim sürecinin adı",
+   "Bir donanım kartı"
+  ]
+ },
+ {
+  "q": "LLM kısaltması neyi ifade eder?",
+  "a": "Büyük dil modeli (Large Language Model)",
+  "w": [
+   "Düşük gecikmeli bellek",
+   "Yerel mantık makinesi",
+   "Doğrusal öğrenme yöntemi"
+  ]
+ },
+ {
+  "q": "Büyük dil modellerinde 'halüsinasyon' ne demektir?",
+  "a": "Modelin gerçek olmayan bilgiyi doğruymuş gibi üretmesi",
+  "w": [
+   "Modelin görüntü işlemesi",
+   "Modelin uyku moduna geçmesi",
+   "Modelin hızlanması"
+  ]
+ },
+ {
+  "q": "Takviyeli öğrenmede (reinforcement learning) ajan nasıl öğrenir?",
+  "a": "Ödül ve cezalarla",
+  "w": [
+   "Etiketli resimlerle",
+   "Sabit kural listesiyle",
+   "Rastgele tahminlerle"
+  ]
+ },
+ {
+  "q": "Chatbot nedir?",
+  "a": "Kullanıcıyla yazılı veya sesli sohbet edebilen program",
+  "w": [
+   "Robot süpürge",
+   "Bir ağ cihazı",
+   "Bir veri sıkıştırma aracı"
+  ]
+ },
+ {
+  "q": "Yapay zeka modellerinin eğitiminde GPU'lar neden yaygın kullanılır?",
+  "a": "Çok sayıda işlemi paralel yapabildikleri için",
+  "w": [
+   "Her zaman CPU'dan ucuz oldukları için",
+   "Veriyi şifreledikleri için",
+   "İnternet hızını artırdıkları için"
+  ]
+ },
+ {
+  "q": "Yapay zeka donanımında GPU'larıyla öne çıkan şirket hangisidir?",
+  "a": "NVIDIA",
+  "w": [
+   "Canon",
+   "Logitech",
+   "Epson"
+  ]
+ },
+ {
+  "q": "Gradient descent (gradyan inişi) ne için kullanılır?",
+  "a": "Modelin hatasını azaltan parametreleri bulmak için",
+  "w": [
+   "Dosya sıkıştırmak için",
+   "Ağ yönlendirmek için",
+   "Resim büyütmek için"
+  ]
+ },
+ {
+  "q": "Yapay zekada 'önyargı' (bias) sorunu ne demektir?",
+  "a": "Modelin, verideki dengesizlikten kaynaklanan adaletsiz sonuçlar üretmesi",
+  "w": [
+   "Modelin hız sınırı",
+   "Bir donanım arızası",
+   "Kodun uzunluğu"
+  ]
+ },
+ {
+  "q": "Üretken yapay zeka (generative AI) ne yapar?",
+  "a": "Metin, görsel gibi yeni içerikler üretir",
+  "w": [
+   "Yalnızca veri siler",
+   "Yalnızca elektrik üretir",
+   "Yalnızca ağ güvenliği sağlar"
+  ]
+ },
+ {
+  "q": "DALL·E tarzı modeller ne üretir?",
+  "a": "Metin tarifinden görüntü",
+  "w": [
+   "Ses kaydı",
+   "Excel tablosu",
+   "Donanım sürücüsü"
+  ]
+ },
+ {
+  "q": "Isaac Asimov'un robot yasalarında ilk kural nedir?",
+  "a": "Robot, bir insana zarar veremez",
+  "w": [
+   "Robot kendini her koşulda korumalıdır",
+   "Robot her emre uymalıdır",
+   "Robot şarjını korumalıdır"
+  ]
+ },
+ {
+  "q": "Siri sesli asistanı hangi şirkete aittir?",
+  "a": "Apple",
+  "w": [
+   "Amazon",
+   "Google",
+   "Samsung"
+  ]
+ },
+ {
+  "q": "Alexa sesli asistanı hangi şirkete aittir?",
+  "a": "Amazon",
+  "w": [
+   "Apple",
+   "Microsoft",
+   "Meta"
+  ]
+ },
+ {
+  "q": "Eğitilmiş bir modelin yeni veriyle tahmin yapmasına ne ad verilir?",
+  "a": "Çıkarım (inference)",
+  "w": [
+   "Derleme",
+   "Yedekleme",
+   "Ayrıştırma"
+  ]
+ },
+ {
+  "q": "Aşağıdakilerden hangisi denetimsiz öğrenme (unsupervised learning) örneğidir?",
+  "a": "Kümeleme (clustering)",
+  "w": [
+   "Etiketli veriyle spam tespiti",
+   "Regresyonla ev fiyatı tahmini",
+   "Etiketli resimlerle sınıflandırma"
+  ]
+ },
+ {
+  "q": "Makine öğrenmesinde 'özellik' (feature) nedir?",
+  "a": "Modelin girdi olarak kullandığı ölçülebilir veri niteliği",
+  "w": [
+   "Modelin renk teması",
+   "Kodun lisansı",
+   "Sunucu adresi"
+  ]
+ },
+ {
+  "q": "Büyük dil modellerinde 'token' nedir?",
+  "a": "Metnin modelin işlediği küçük parçası",
+  "w": [
+   "Giriş kartı",
+   "Güvenlik anahtarı",
+   "Bir donanım birimi"
+  ]
+ },
+ {
+  "q": "Google'ın sohbet ve yapay zeka modelinin güncel adı nedir?",
+  "a": "Gemini",
+  "w": [
+   "Cortana",
+   "Bixby",
+   "Alexa"
+  ]
+ },
+ {
+  "q": "Yapay genel zeka (AGI) ne anlama gelir?",
+  "a": "İnsan düzeyinde her alanda öğrenip düşünebilen yapay zeka",
+  "w": [
+   "Sadece satranç oynayan sistem",
+   "Çok hızlı internet bağlantısı",
+   "Yeni bir işlemci türü"
+  ]
+ }
+]

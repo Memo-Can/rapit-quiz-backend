@@ -1,0 +1,362 @@
+[
+ {
+  "q": "1 bayt (byte) kaç bittir?",
+  "a": "8",
+  "w": [
+   "4",
+   "10",
+   "16"
+  ]
+ },
+ {
+  "q": "İkilik sistemdeki 101 sayısının onluk karşılığı kaçtır?",
+  "a": "5",
+  "w": [
+   "3",
+   "6",
+   "7"
+  ]
+ },
+ {
+  "q": "'İlk giren ilk çıkar' mantığıyla çalışan veri yapısı hangisidir?",
+  "a": "Kuyruk (Queue)",
+  "w": [
+   "Yığın (Stack)",
+   "Hash tablosu",
+   "İkili ağaç"
+  ]
+ },
+ {
+  "q": "'Son giren ilk çıkar' mantığıyla çalışan veri yapısı hangisidir?",
+  "a": "Yığın (Stack)",
+  "w": [
+   "Kuyruk (Queue)",
+   "Hash tablosu",
+   "Bağlı liste"
+  ]
+ },
+ {
+  "q": "CPU'nun Türkçe karşılığı nedir?",
+  "a": "Merkezi İşlem Birimi",
+  "w": [
+   "Ana Bellek Birimi",
+   "Grafik İşlem Birimi",
+   "Ağ Denetleyici Birimi"
+  ]
+ },
+ {
+  "q": "RAM'in temel özelliği nedir?",
+  "a": "Güç kesilince içeriği silinen geçici bellektir",
+  "w": [
+   "Veriyi kalıcı saklar",
+   "Yalnızca okunabilir",
+   "Sadece ağ üzerinden erişilir"
+  ]
+ },
+ {
+  "q": "İkili arama (binary search) algoritmasının zaman karmaşıklığı nedir?",
+  "a": "O(log n)",
+  "w": [
+   "O(n)",
+   "O(n²)",
+   "O(1)"
+  ]
+ },
+ {
+  "q": "İşletim sisteminin temel görevi nedir?",
+  "a": "Donanım kaynaklarını yönetip programlara hizmet vermek",
+  "w": [
+   "Yalnızca virüs temizlemek",
+   "Yalnızca internete bağlanmak",
+   "Yalnızca belge yazmak"
+  ]
+ },
+ {
+  "q": "Aşağıdakilerden hangisi bir işletim sistemidir?",
+  "a": "Linux",
+  "w": [
+   "Python",
+   "MySQL",
+   "Photoshop"
+  ]
+ },
+ {
+  "q": "IP adresi ne işe yarar?",
+  "a": "Ağdaki cihazı tanımlar ve adresler",
+  "w": [
+   "Belleği temizler",
+   "Ekran çözünürlüğünü belirler",
+   "İşlemciyi soğutur"
+  ]
+ },
+ {
+  "q": "IPv4 adresleri kaç bitliktir?",
+  "a": "32",
+  "w": [
+   "16",
+   "64",
+   "128"
+  ]
+ },
+ {
+  "q": "DNS ne yapar?",
+  "a": "Alan adlarını IP adreslerine çevirir",
+  "w": [
+   "Dosyaları şifreler",
+   "E-posta gönderir",
+   "Ağ kablosu bağlar"
+  ]
+ },
+ {
+  "q": "HTTP'nin şifreli ve güvenli sürümü hangisidir?",
+  "a": "HTTPS",
+  "w": [
+   "FTP",
+   "SMTP",
+   "IMAP"
+  ]
+ },
+ {
+  "q": "Derleyici (compiler) ne yapar?",
+  "a": "Kaynak kodu makine koduna çevirir",
+  "w": [
+   "Kodu yedekler",
+   "Ağ bağlantısı kurar",
+   "Ekran görüntüsü alır"
+  ]
+ },
+ {
+  "q": "Aşağıdakilerden hangisi bir donanım parçasıdır?",
+  "a": "Anakart",
+  "w": [
+   "Derleyici",
+   "İşletim sistemi",
+   "Web tarayıcısı"
+  ]
+ },
+ {
+  "q": "SSD ile HDD arasındaki temel fark nedir?",
+  "a": "SSD'de hareketli mekanik parça yoktur",
+  "w": [
+   "SSD manyetik disk kullanır",
+   "HDD flash bellek kullanır",
+   "HDD her zaman daha hızlıdır"
+  ]
+ },
+ {
+  "q": "Algoritma nedir?",
+  "a": "Bir problemi çözmek için izlenen adım adım yol",
+  "w": [
+   "Bir donanım parçası",
+   "Bir ağ protokolü",
+   "Bir dosya biçimi"
+  ]
+ },
+ {
+  "q": "Aşağıdakilerden hangisi bir sıralama algoritmasıdır?",
+  "a": "Quick Sort",
+  "w": [
+   "Hash Map",
+   "Linked List",
+   "Binary Tree"
+  ]
+ },
+ {
+  "q": "Dijkstra algoritması neyi bulur?",
+  "a": "Bir çizgede en kısa yolu",
+  "w": [
+   "En büyük sayıyı",
+   "Metin içinde kelimeyi",
+   "Dizinin ortancasını"
+  ]
+ },
+ {
+  "q": "Mantıksal AND işleminde 1 AND 0 sonucu kaçtır?",
+  "a": "0",
+  "w": [
+   "1",
+   "2",
+   "Tanımsızdır"
+  ]
+ },
+ {
+  "q": "1 XOR 1 işleminin sonucu kaçtır?",
+  "a": "0",
+  "w": [
+   "1",
+   "2",
+   "10"
+  ]
+ },
+ {
+  "q": "ASCII nedir?",
+  "a": "Karakterleri sayılara eşleyen kodlama standardı",
+  "w": [
+   "Bir programlama dili",
+   "Bir ağ kablosu türü",
+   "Bir işlemci mimarisi"
+  ]
+ },
+ {
+  "q": "Onaltılık (hexadecimal) sayı sistemi hangi tabandadır?",
+  "a": "16",
+  "w": [
+   "8",
+   "10",
+   "12"
+  ]
+ },
+ {
+  "q": "Onaltılık FF sayısının onluk karşılığı kaçtır?",
+  "a": "255",
+  "w": [
+   "256",
+   "128",
+   "15"
+  ]
+ },
+ {
+  "q": "Von Neumann mimarisinin temel özelliği nedir?",
+  "a": "Program ve veri aynı bellekte tutulur",
+  "w": [
+   "Bellek kullanılmaz",
+   "Yalnızca analog işlem yapılır",
+   "Program ve veri ayrı ağlarda tutulur"
+  ]
+ },
+ {
+  "q": "Tarihin ilk bilgisayar programcısı kabul edilen kişi kimdir?",
+  "a": "Ada Lovelace",
+  "w": [
+   "Bill Gates",
+   "Alan Turing",
+   "Steve Jobs"
+  ]
+ },
+ {
+  "q": "Turing makinesi kavramını ortaya atan kişi kimdir?",
+  "a": "Alan Turing",
+  "w": [
+   "Charles Babbage",
+   "Linus Torvalds",
+   "Dennis Ritchie"
+  ]
+ },
+ {
+  "q": "World Wide Web'i (WWW) icat eden kişi kimdir?",
+  "a": "Tim Berners-Lee",
+  "w": [
+   "Bill Gates",
+   "Steve Wozniak",
+   "Larry Page"
+  ]
+ },
+ {
+  "q": "C programlama dilini kim geliştirmiştir?",
+  "a": "Dennis Ritchie",
+  "w": [
+   "Bjarne Stroustrup",
+   "James Gosling",
+   "Guido van Rossum"
+  ]
+ },
+ {
+  "q": "C++ dilini kim geliştirmiştir?",
+  "a": "Bjarne Stroustrup",
+  "w": [
+   "Dennis Ritchie",
+   "Guido van Rossum",
+   "Larry Wall"
+  ]
+ },
+ {
+  "q": "Python dilinin yaratıcısı kimdir?",
+  "a": "Guido van Rossum",
+  "w": [
+   "James Gosling",
+   "Brendan Eich",
+   "Linus Torvalds"
+  ]
+ },
+ {
+  "q": "Java dilinin yaratıcısı kimdir?",
+  "a": "James Gosling",
+  "w": [
+   "Brendan Eich",
+   "Guido van Rossum",
+   "Dennis Ritchie"
+  ]
+ },
+ {
+  "q": "İşlemci çekirdeği (core) nedir?",
+  "a": "İşlemci içinde bağımsız komut yürütebilen birimdir",
+  "w": [
+   "Ekran kartıdır",
+   "Soğutucu fandır",
+   "Bellek modülüdür"
+  ]
+ },
+ {
+  "q": "Önbellek (cache) belleğin amacı nedir?",
+  "a": "Sık kullanılan verilere çok hızlı erişim sağlamak",
+  "w": [
+   "Verileri kalıcı saklamak",
+   "Ağ bağlantısı kurmak",
+   "Ses işlemek"
+  ]
+ },
+ {
+  "q": "Veritabanında birincil anahtar (primary key) nedir?",
+  "a": "Her kaydı tekil olarak tanımlayan alan",
+  "w": [
+   "Veritabanı şifresi",
+   "En uzun metin alanı",
+   "Silinmiş kayıt"
+  ]
+ },
+ {
+  "q": "Ağda yönlendirici (router) ne yapar?",
+  "a": "Farklı ağlar arasında paketleri yönlendirir",
+  "w": [
+   "Ekranı çoğaltır",
+   "Dosyaları sıkıştırır",
+   "Elektrik dağıtır"
+  ]
+ },
+ {
+  "q": "Simetrik şifrelemede hangisi doğrudur?",
+  "a": "Şifreleme ve çözme için aynı anahtar kullanılır",
+  "w": [
+   "Anahtar hiç kullanılmaz",
+   "Her zaman iki farklı anahtar gerekir",
+   "Yalnızca ağ üzerinde çalışır"
+  ]
+ },
+ {
+  "q": "İşletim sistemlerinde 'deadlock' (kilitlenme) nedir?",
+  "a": "Süreçlerin birbirini bekleyip ilerleyememesi",
+  "w": [
+   "Diskin dolması",
+   "Belleğin hızlanması",
+   "Ağın kopması"
+  ]
+ },
+ {
+  "q": "Thread (iş parçacığı) nedir?",
+  "a": "Bir süreç içindeki yürütme birimi",
+  "w": [
+   "Bir ağ kablosu türü",
+   "Bir disk bölümü",
+   "Bir şifreleme algoritması"
+  ]
+ },
+ {
+  "q": "LAN ne anlama gelir?",
+  "a": "Yerel alan ağı",
+  "w": [
+   "Geniş alan ağı",
+   "Uydu ağı",
+   "Kablosuz tarayıcı"
+  ]
+ }
+]
