@@ -1,0 +1,48 @@
+# Backend App (frontend ayrı bir App olarak yayınlanır; bkz. docs bölüm 16, karar 6).
+# <kullanici> ve alan adlarını kendi değerlerinizle değiştirin.
+# Oluşturma: doctl apps create --spec .do/app.yaml
+name: rapit-quiz-api
+region: fra
+services:
+  - name: api
+    github: { repo: <kullanici>/rapit-quiz-backend, branch: main, deploy_on_push: true }
+    dockerfile_path: Dockerfile
+    http_port: 8080
+    instance_size_slug: basic-xxs
+    instance_count: 1
+    health_check: { http_path: /api/v1/health/ }
+    envs:
+      - { key: DATABASE_URL, scope: RUN_TIME, value: "${db.DATABASE_URL}" }
+      - { key: SECRET_KEY, scope: RUN_TIME, type: SECRET }
+      - { key: DJANGO_ALLOWED_HOSTS, scope: RUN_TIME, value: "api.rapitquiz.example" }
+      - { key: CORS_ALLOWED_ORIGINS, scope: RUN_TIME, value: "https://rapitquiz.example" }
+      - { key: DEBUG, scope: RUN_TIME, value: "False" }
+      # App Platform tek proxy katmanı: throttle için istemci IP'si X-Forwarded-For'dan okunur.
+      - { key: API_NUM_PROXIES, scope: RUN_TIME, value: "1" }
+jobs:
+  - name: migrate
+    kind: PRE_DEPLOY
+    github: { repo: <kullanici>/rapit-quiz-backend, branch: main }
+    dockerfile_path: Dockerfile
+    run_command: python manage.py migrate --noinput
+    envs:
+      - { key: DATABASE_URL, scope: RUN_TIME, value: "${db.DATABASE_URL}" }
+      - { key: SECRET_KEY, scope: RUN_TIME, type: SECRET }
+      - { key: DEBUG, scope: RUN_TIME, value: "False" }
+  # Terk edilmiş oturumları temizler (saatlik). Zamanlanmış job sözdizimini
+  # doctl/DO paneli ile doğrulayın; desteklenmiyorsa panelden "Scheduled job" ekleyin.
+  - name: cleanup-sessions
+    kind: SCHEDULED
+    schedule: { cron: "0 * * * *", time_zone: UTC }
+    github: { repo: <kullanici>/rapit-quiz-backend, branch: main }
+    dockerfile_path: Dockerfile
+    run_command: python manage.py cleanup_sessions
+    envs:
+      - { key: DATABASE_URL, scope: RUN_TIME, value: "${db.DATABASE_URL}" }
+      - { key: SECRET_KEY, scope: RUN_TIME, type: SECRET }
+      - { key: DEBUG, scope: RUN_TIME, value: "False" }
+databases:
+  - name: db
+    engine: PG
+    version: "16"
+    production: false   # geliştirme; canlıda managed cluster'a geçilir
